@@ -5979,20 +5979,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\D O M I N A T O R\\.nuget\\packages\\": {}
+    "C:\\Users\\nbodaveli\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\D O M I N A T O R\\source\\repos\\my-books\\my-books\\my-books.csproj",
+      "projectUniqueName": "C:\\Users\\nbodaveli\\Desktop\\ASP.NET-CORE-WEB-API\\my-books\\my-books.csproj",
       "projectName": "my-books",
-      "projectPath": "C:\\Users\\D O M I N A T O R\\source\\repos\\my-books\\my-books\\my-books.csproj",
-      "packagesPath": "C:\\Users\\D O M I N A T O R\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\D O M I N A T O R\\source\\repos\\my-books\\my-books\\obj\\",
+      "projectPath": "C:\\Users\\nbodaveli\\Desktop\\ASP.NET-CORE-WEB-API\\my-books\\my-books.csproj",
+      "packagesPath": "C:\\Users\\nbodaveli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nbodaveli\\Desktop\\ASP.NET-CORE-WEB-API\\my-books\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\D O M I N A T O R\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\nbodaveli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6054,7 +6059,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
